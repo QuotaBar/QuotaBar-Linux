@@ -24,7 +24,7 @@
 ## 功能
 
 QuotaBar 显示各家 AI 编码服务的额度用了多少、每个窗口什么时候重置，以及大致花了多少钱，
-支持 Claude、Codex、Gemini、Cursor、Grok 等。所有数据都在你自己的电脑上读取和计算，
+支持 Claude、Codex、Antigravity、Cursor、Grok 等。所有数据都在你自己的电脑上读取和计算，
 无需账号，不收集遥测。
 
 ## 与 macOS 版的关系

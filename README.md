@@ -24,7 +24,7 @@ In development, not released yet. The version you can use today is
 ## What it will do
 
 QuotaBar shows how much of each AI coding service's quota you have used, when
-each window resets, and roughly what it has cost — Claude, Codex, Gemini,
+each window resets, and roughly what it has cost — Claude, Codex, Antigravity,
 Cursor, Grok and more. Everything is read and worked out on your own computer.
 No account, no telemetry.
 
